@@ -1,0 +1,108 @@
+.banner {
+padding-top: 75px;
+
+    width: 100%;
+}
+
+.menupoisk {
+    flex-wrap: wrap;
+    align-items: center;
+    height: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.katalog {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+}
+
+.poisk {
+    display: flex;
+
+}
+
+.poloski1 {
+    margin-left: 10px;
+}
+
+::placeholder {
+
+    font-size: 16px;
+    font-family: 'Poltawski Nowy', serif;;
+    color: #A9A9A9;
+}
+
+.place {
+
+    border-left: white;
+    border-top: white;
+    border-right: white;
+    border-bottom: 1px #A9A9A9;
+    background-color: transparent;
+    border-bottom: 1px solid #A9A9A9;
+    font-family: 'Poltawski Nowy', serif;
+
+    outline: none;
+}
+
+
+.button1 {
+
+margin-left: -20px;
+    background: url(/png/magnifier.svg);
+    background-color: transparent;
+    outline: none;
+border: none;
+    width: 21px;
+    height: 21px;
+}
+
+.button1:hover {
+    cursor: pointer;
+}
+
+.bestchoice {
+    height: 625px;
+    background-color: #F6F6F6;
+}
+
+.today {
+    padding-top: 50px;
+    font-size: 30px;
+    margin: auto 200px;
+}
+
+.premium {
+margin-top: 100px;
+    min-width: 300px;
+padding: 30px;
+    border-radius: 200px;
+    background-color: #A56DFF;
+    display: flex;
+justify-content: space-between;
+margin-left: 100px;
+margin-right: 100px;
+flex-wrap: wrap;
+}
+
+.i1 {
+    margin-left: 50px;
+margin-right: 50px;
+align-items: stretch;
+    text-align: center;
+}
+
+.font {
+
+
+}
+
+.novinki {
+    margin-top: 50px;
+    height: 625px;
+}
