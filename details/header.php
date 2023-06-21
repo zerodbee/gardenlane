@@ -5,7 +5,14 @@
     <div class="lineone">
 
         <a class="logo" href="./index.php">Garden Lane<!--<img class="logo" src="./png/logo.png" alt="">--></a>
+        <div class="profil-menu">
         <a class="phone" href="tel:+99999999999"><p >+9-(999)-999-99-99</p></a>
+        <a href=""><img src="./png/korz.png" alt=""></a>
+        <a href=""><img src="./png/best.png" alt=""></a>
+        <div class="profil">
+            <a class="pr" href="" style="color: black;"><img src="./png/profil.png" alt=""><p class="prfl" >Профиль</p></a>
+        </div>
+        </div>
     </div>
 
         <hr class="line" color="#dadada" size="1px">

@@ -199,7 +199,14 @@ background: #D1F2FA;
 
 
 .nazvanie1{
+    color: #000000;
     font-size: 30px;
+}
+
+.nazvanie11{
+    margin-bottom: 50px;
+    color: #000000;
+    font-size: 40px;
 }
 
 .lab3 {
@@ -215,4 +222,39 @@ background: #D1F2FA;
 .lab5 {
     color: #5CA8B9;
     line-height: 30px;
+}
+
+.mains {
+
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin-right: 100px;
+    margin-left: 100px;
+    display: flex;
+
+}
+
+.filter {
+    margin-bottom: 50px;
+    margin-right: 170px;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+.flowerss {
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+    
+}
+
+.price {
+    width: 40px;
+}
+
+.prc {
+    display: flex;
+}
+
+.btn1 {
+    width: 100%;
 }
